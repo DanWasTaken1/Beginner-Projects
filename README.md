@@ -1,3 +1,3 @@
 # Beginner-Projects
-Hey! I'm Adi, and I'm a dude from India who's learning to code.
+Hey! I'm Dan, and I'm a dude from Florida who's learning to code.
 All the things below are very beginner level, and are not so good.
